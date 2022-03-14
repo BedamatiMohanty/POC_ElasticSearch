@@ -1,0 +1,13 @@
+{
+    "react-native-tools.reactNativeGlobalCommandName": "crud",
+    "breadcrumbs.showNull": "true",
+    "breadcrumbs.showNumbers": "true",
+    "breadcrumbs.showObjects": "true",
+    "breadcrumbs.showOperators": "true",
+    "breadcrumbs.showPackages": "true",
+    "gitlens.codeLens.scopes": [
+        "document",
+        "containers",
+        "blocks"
+    ]
+ }
